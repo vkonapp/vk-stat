@@ -101,6 +101,7 @@ li {
     position: absolute;
     display: flex;
     flex-direction: column;
+    max-width: 125px;
     bottom: 25px;
     left: 25px;
 }
