@@ -39,7 +39,7 @@ i span {
 
 #menu {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 header {
